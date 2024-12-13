@@ -1,0 +1,32 @@
+dd_id,product_name,price,quantity,customer_id
+1,Product A,25.5,1,101
+2,Product B,35.0,2,102
+3,Product C,,1,103
+4,Product D,12.0,2,104
+5,Product A,25.5,1,101
+6,Product E,40.0,3,105
+7,,55.0,1,106
+8,Product F,30.0,1,107
+9,Product G,15.5,,108
+10,Product H,20.0,1,109
+11,Product I,18.0,1,110
+12,Product J,22.0,1,111
+13,Product K,17.5,1,112
+14,Product L,30.0,1,113
+15,Product M,28.0,1,114
+16,Product N,45.0,1,115
+17,Product O,55.0,1,116
+18,Product P,32.0,1,117
+19,Product Q,40.0,1,118
+20,Product R,25.0,1,119
+21,Product S,25.5,1,120
+22,Product T,35.0,1,121
+23,Product U,10.0,1,122
+24,Product V,33.5,1,123
+25,Product W,23.0,1,124
+26,Product X,27.5,1,125
+27,Product Y,34.0,1,126
+28,Product Z,36.0,1,127
+29,Product AA,38.0,1,128
+30,Product AB,29.0,1,129
+

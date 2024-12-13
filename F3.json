@@ -1,0 +1,13 @@
+[
+    {"ProductID": "103", "ProductName": "Monitor", "Quantity": "5", "Price": "150.50"},
+    {"ProductID": "104", "ProductName": "Mouse", "Quantity": "7", "Price": "20.30"},
+    {"ProductID": "105", "ProductName": "Keyboard", "Quantity": "", "Price": "45.00"},
+    {"ProductID": "106", "ProductName": "Speakers", "Quantity": "2", "Price": "75.20"},
+    {"ProductID": "105", "ProductName": "Keyboard", "Quantity": "", "Price": "45.00"},
+    {"ProductID": "108", "ProductName": "Laptop", "Quantity": "1", "Price": "wrong_format"},
+    {"ProductID": "109", "ProductName": "Tablet", "Quantity": "NaN", "Price": "300.00"},
+    {"ProductID": "", "ProductName": "Headphones", "Quantity": "4", "Price": "50.00"},
+    {"ProductID": "111", "ProductName": "", "Quantity": "10", "Price": "100.00"},
+    {"ProductID": "112", "ProductName": "Charger", "Quantity": "3", "Price": ""}
+]
+
